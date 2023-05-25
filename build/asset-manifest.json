@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06e45a33.css",
+    "main.js": "/static/js/main.8c0d31f1.js",
+    "static/media/GothamSSm-Book_Web.woff2": "/static/media/GothamSSm-Book_Web.299e9ca606232b303d77.woff2",
+    "index.html": "/index.html",
+    "main.06e45a33.css.map": "/static/css/main.06e45a33.css.map",
+    "main.8c0d31f1.js.map": "/static/js/main.8c0d31f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e45a33.css",
+    "static/js/main.8c0d31f1.js"
+  ]
+}
